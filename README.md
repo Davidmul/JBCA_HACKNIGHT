@@ -36,6 +36,8 @@ The root mean squared error using K-Fold cross validation is a good way to test 
 
 In the folder challenge 1, one will find the data in the csv file 'listings.csv'. A short tutorial introducing the data,running a very simple linear regression model and performing k-cross validation is found in 'AIRBNB_tutorial.ipynb'.
 
+Some feature engineering and editing to the data is needed to obtain a more accurate prediction.
+
 The original source of this data is located at:
 http://insideairbnb.com/get-the-data.html
 
