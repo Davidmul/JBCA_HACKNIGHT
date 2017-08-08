@@ -41,10 +41,17 @@ Some feature engineering and editing to the data is needed to obtain a more accu
 The original source of this data is located at:
 http://insideairbnb.com/get-the-data.html
 
-### Challenge 2: Machine learning - Predicting car prices
+### Challenge 2a: Machine learning - Predicting car prices or miles per gallon
 
-Description:
+Description: use the data features to (existing of engineered) to develop a model to predict car prices, the miles per gallon (mpg) or any other numerical value given in the data file.
 
+In the folder challenge 2, you will find the data in the csv file 'imports-85.data' as well as a short tutorial ('Automobile_Data_Set_price_estimation_example.ipynb') introducing the data, preprocessing the data as well as some simple ML examples with a couple models to predict the car prices. 
+
+### Challenge 2b: Machine learning - Classification
+
+Description: use the data features to (existing of engineered) to develop a model to predict car make, the insurance risk ('Symboling') or any other categorical data given in the data file
+
+In the folder challenge 2, you will find the data in the csv file 'imports-85.data' as well as a short tutorial ('Automobile_Data_Set_Type_Classifier_example.ipynb') introducing the data, preprocessing the data as well as some simple ML examples with a couple models to predict the car make.
 
 
 ## Helpful tools
