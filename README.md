@@ -32,7 +32,7 @@ Below we've described two different challenges for which each team will pick one
 
 Description: use data features (existing or engineered) to develop a model that can predict Airbnb rental prices.
 
-The root mean squared error
+The root mean squared error using K-Fold cross validation is a good way to test the accuracy of the model.
 
 In the folder challenge 1, one will find the data in the csv file 'listings.csv'. A short tutorial introducing the data,running a very simple linear regression model and performing k-cross validation is found in 'AIRBNB_tutorial.ipynb'.
 
