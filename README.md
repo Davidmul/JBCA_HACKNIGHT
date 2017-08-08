@@ -1,8 +1,14 @@
 # JBCA Data Science Hack Night August 2017
 
+Welcome to the 1st JBCA Data Science Hack Night.
+For this hack night, each team will choose one of the following challenges and present a 3 minute presentation.
+These presentations will be judged by the organisers and the winner will win the coveted Data Monkey Trophy!
+
+The presentations will be judged on the accuracy of the predicted results via machine learning and visualisation/presentation of the data/results.
+
 ## Schedule
 
-18.00 - 18.20: welcome presentation
+18.00 - 18.20: Welcome presentation
 
 18.20 - 18.30: Forming teams
 
@@ -12,34 +18,30 @@
 
 19.30 - 20.30: **second half**
 
-20.30 - 20.45: lightning presentations from teams
+20.30 - 20.50: Lightning presentations from teams
 
-20.45 - 21.00: judging and prizes
+20.50 - 21.00: Judging and prizes
 
 
-## The data
+## The challenges
 
-In the 'data' directory you'll find the data we'll be looking at tonight. It describes all road traffic accidents in Leeds from 2009 to 2015 that involve at least a minor injury. As you'll see, there are many interesting features to work with, including road surface conditions, lighting conditions, number of vehicles involved etc.
+Below we've described two different challenges for which each team will pick one to work on.
 
-We've provided the raw files of the separate years, and additionally the following files:
 
-Link to data on data.gov.uk site:
-
-## Challenges
-
-Below we've described some suggested challenges (two for machine learning and three for visualization).
-If you have an idea for something you'd rather work on, that's great! Run it by one of our team and
-we can help you hash out a plan and get started
-
-### Challenge 1: machine learning - Predicting Manchester Airbnb data
+### Challenge 1: Machine learning - Predicting Manchester Airbnb data
 
 Description: use data features (existing or engineered) to develop a model that can predict Airbnb rental prices.
 
-In the folder challenge 1, one will find the data
+The root mean squared error
 
-### Challenge 2: machine learning - Predicting car prices
+In the folder challenge 1, one will find the data in the csv file 'listings.csv'. A short tutorial introducing the data,running a very simple linear regression model and performing k-cross validation is found in 'AIRBNB_tutorial.ipynb'.
 
-Description: develop a time series model to fit and forecast the rate of accidents with time
+The original source of this data is located at:
+http://insideairbnb.com/get-the-data.html
+
+### Challenge 2: Machine learning - Predicting car prices
+
+Description:
 
 
 
